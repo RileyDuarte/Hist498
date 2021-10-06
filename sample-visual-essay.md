@@ -8,7 +8,7 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
+<param ve-entity eid="Q185372"> <!-- Mandragora -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
@@ -23,9 +23,9 @@ This is a sample visual essay demonstrating a few key features of a visual essay
 
 ## Image
 
-A mandrake is the root of a plant, historically derived either from plants of the genus Mandragora found in the Mediterranean region, or from other species, such as Bryonia alba, the English mandrake, which have similar properties. The plants from which the root is obtained are also called "mandrakes". Mediterranean mandrakes are perennial herbaceous plants with ovate leaves arranged in a rosette, a thick upright root, often branched, and bell-shaped flowers followed by yellow or orange berries. They have been placed in different species by different authors. They are highly variable perennial herbaceous plants with long thick roots (often branched) and almost no stem. The leaves are borne in a basal rosette, and are variable in size and shape, with a maximum length of 45 cm (18 in). They are usually either elliptical in shape or wider towards the end (obovate), with varying degrees of hairiness.[1]
+A mandrake is the root of a plant, historically derived either from plants of the genus Mandragora found in the Mediterranean region, or from other species, such as Bryonia alba, the English mandrake, which have similar properties. The plants from which the root is obtained are also called "mandrakes". Mediterranean mandrakes are perennial herbaceous plants with ovate leaves arranged in a rosette, a thick upright root, often branched, and bell-shaped flowers followed by yellow or orange berries. They have been placed in different species by different authors. They are highly variable perennial herbaceous plants with long thick roots (often branched) and almost no stem. The leaves are borne in a basal rosette, and are variable in size and shape, with a maximum length of 45 cm (18 in). They are usually either elliptical in shape or wider towards the end (obovate), with varying degrees of hairiness.
 
-Because mandrakes contain deliriant hallucinogenic tropane alkaloids and the shape of their roots often resembles human figures, they have been associated with a variety of superstitious practices throughout history. They have long been used in magic rituals, today also in contemporary pagan traditions such as Wicca and Odinism.[2]
+Because mandrakes contain deliriant hallucinogenic tropane alkaloids and the shape of their roots often resembles human figures, they have been associated with a variety of superstitious practices throughout history. They have long been used in magic rituals, today also in contemporary pagan traditions such as Wicca and Odinism.
 
 The English name of the plant derives from Latin mandragora through French main-de-gloire.[^1]
 <param ve-image 
