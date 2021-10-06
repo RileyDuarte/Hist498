@@ -44,4 +44,4 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Mandrake](https://en.wikipedia.org/wiki/Mandrake)
