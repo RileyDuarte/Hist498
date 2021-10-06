@@ -10,8 +10,8 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q212742"> <!-- genus Mandragora -->
 <param ve-entity eid="Q157980"> <!-- Bryonia alba -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q59774"> <!-- Wicca -->
+<param ve-entity eid="Q285441"> <!-- Odinism -->
 
 # Sample visual essay
 
