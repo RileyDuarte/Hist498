@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Mandrake" 
-       banner="https://en.wikipedia.org/wiki/De_materia_medica#/media/File:NaplesDioscuridesMandrake.jpg" 
+       banner="https://commons.wikimedia.org/wiki/File:NaplesDioscuridesMandrake.jpg#/media/File:NaplesDioscuridesMandrake.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
