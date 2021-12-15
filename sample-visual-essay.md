@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Mandrake" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://https://upload.wikimedia.org/wikipedia/commons/f/f7/NaplesDioscuridesMandrake.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/NaplesDioscuridesMandrake.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
